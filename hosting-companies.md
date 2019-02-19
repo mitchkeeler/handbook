@@ -13,6 +13,7 @@ In alphabetical order:
 * [Cloudways](http://cloudways.com)
 * [Dreamhost](http://dreamhost.com)
 * [FatCow](http://www.fatcow.com/wordpress-hosting/)
+* [GreenGeeks](https://www.greengeeks.com/wordpress-hosting/)
 * [GoDaddy](https://www.godaddy.com/help/accessing-wp-cli-on-your-managed-wordpress-account-12066)
 * [Host4Geeks](https://host4geeks.com/managed-wordpress-hosting)
 * [HostGalaxy](https://www.hostgalaxy.com)
